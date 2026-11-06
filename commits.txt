@@ -1,0 +1,10 @@
+7e47104 Revert "Add paragraph to index.html"
+c42026a Add paragraph to index.html
+de475a6 Resolve merge conflict
+3c150ef Update heading text on main
+2ede03a Change heading text
+1b99b56 Merge pull request #1 from Kodak-source/feature-style
+4f5b3aa Add test2 file Ilin
+ebc059f Create test-ilin.txt
+2315432 Add blue CSS style to heading
+a4f9588 Add initial HTML file
